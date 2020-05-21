@@ -47,6 +47,10 @@
     <Compile Include="LinkedList\Model\LinkedList.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Stack\Model\ArrayStack.cs" />
+    <Compile Include="Stack\Model\Item.cs" />
+    <Compile Include="Stack\Model\LinkedStack.cs" />
+    <Compile Include="Stack\Model\SimpleStack.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
